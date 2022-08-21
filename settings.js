@@ -39,29 +39,29 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['Siro Bot']
 
-global.premium = ['💗Queen Ashiya🧚']
+global.premium = ['👑Siro Bot👑']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '79586848937'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'Siro Bot💎'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = '💎Siro Bot💎'
 
-global.footer = '©💗Queen Ashiya🧚.'
+global.footer = '©💗Siro Bot.'
 
-global.ig = 'https://github.com/BlackPant'
+global.ig = 'https://wa.me/+79586848937'
 
 global.region = 'Sri Lanka, North Central Peovince, Anuradhapura'
 
-global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
+global.sc = 'https://wa.me/+79586848937'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://youtube.com/channel/UCeGgOY9B-5fYrYD5ELPgMkQ'
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = '💎Siro Bot💎'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = '💎Siro Bot💎'
 
 global.sessionName = 'session'
 
@@ -71,25 +71,25 @@ global.sp = '◈'
 
 global.mess = {
 
-    success: 'Done ✓🌹⃝⃘̉̉̉̉̉̉🧚',
+    success: 'تم ✓🌹⃝⃘̉̉̉̉̉̉🧚',
 
-    admin: 'This Feature Is Only For Admin!✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣',
+    admin: 'هذه الميزة للمشرف فقط!!✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣',
 
-    botAdmin: 'Bot Must Be Admin First!❤️⃟✦⃝̮̮̮̯̯̯😌',
+    botAdmin: 'يجب أن يكون الروبوت مسؤولاً أولاً!❤️⃟✦⃝̮̮̮̯̯̯😌',
 
-    owner: 'This Feature Is Only For Owner😯⃟💦᭄᭄̊̊̊̊࿔!',
+    owner: 'هذه الميزة للمالك فقط!،😯⃟💦᭄᭄̊̊̊̊࿔!',
 
-    group: 'Feature Used Only For Groups!😒⃝⃟ꦾ👌ꦿ',
+    group: 'الميزة مستخدمة فقط للمجموعات!،😒⃝⃟ꦾ👌ꦿ',
 
-    private: 'Features Used Only For Private Chat😯⃟💦᭄᭄̊̊̊̊࿔!',
+    private: 'الميزات المستخدمة فقط في الدردشة الخاصة😯⃟💦᭄᭄̊̊̊̊࿔!',
 
-    bot: 'This Feature Is Only For Bot❤️⃝➤⃟̱̱̱̱̄̄̄̄😢',
+    bot: 'هذه الميزة مخصصة للبوت فقط❤️⃝➤⃟̱̱̱̱̄̄̄̄😢',
 
-    wait: 'Wait A minute...🦋⃝❉⃟࿔ꦿ',
+    wait: 'انتظر لحظة ...🦋⃝❉⃟࿔ꦿ',
 
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    error: 'خطأ! ربما انتهت صلاحية مفتاح Api! ،‏🤔!',
 
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، سيتم إعادة تعيين الحد كل 12 ساعة',
 
 }
 
