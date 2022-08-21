@@ -2101,17 +2101,17 @@ break
                     image: { url: anu.thumbnail },
                     caption: `
 ╔═════ೋೋ═════╗
-   💗Queen Ashiya🧚 𝗕𝗼𝘁💕
-❤ Title : ${anu.title} 🧚
-❤ Ext : Search 🧚
-❤ ID : ${anu.videoId} 🧚
-❤ Duration : ${anu.timestamp} 🧚
-❤ Viewes : ${anu.views} 🧚
-❤ Uploaded On : ${anu.ago} 🧚
-❤ Author : ${anu.author.name} 🧚
-❤ Channel : ${anu.author.url} 🧚
-❤ Description : ${anu.description} 🧚
-❤ Url : ${anu.url}`,
+   💗Siro💎𝗕𝗼𝘁💕
+❤ عنوان : ${anu.title} 🧚
+❤ تحويلة: Search 🧚
+❤ بطاقة تعريف : ${anu.videoId} 🧚
+❤ المدة : ${anu.timestamp} 🧚
+❤ الآراء : ${anu.views} 🧚
+❤ تم الرفع في : ${anu.ago} 🧚
+❤ مؤلف : ${anu.author.name} 🧚
+❤ قناة : ${anu.author.url} 🧚
+❤ وصف : ${anu.description} 🧚
+❤ عنوان : ${anu.url}`,
                     footer: GojoMdNx.user.name,
                     buttons: buttons,
                     headerType: 4
@@ -2844,12 +2844,12 @@ case 'webtonsearch': case 'webtoon':
 		        image: { url: anu.author.profilePic },
 			caption: `
 ╔═════ೋೋ═════╗
- 💕𝚀𝚞𝚎𝚎𝚗 𝙰𝚜𝚑𝚒𝚢𝚊 𝙱𝚘𝚝🧚
-💕 Title : ${anu.title} 🧚
-💕 Author : ${anu.author.name} 🧚
-💕 Like : ${anu.like} 🧚
-💕 Caption : ${anu.caption} 🧚
-💕 Url : ${anu.media[0]} 🧚
+ 💕Siro Bot
+💕 عنوان: : ${anu.title} 🧚
+💕 مؤلف : ${anu.author.name} 🧚
+💕 يحب : ${anu.like} 🧚
+💕 شرح : ${anu.caption} 🧚
+💕 عنوان Url : ${anu.media[0]} 🧚
 To Download Media, Please Click One Of The Buttons Below Or Enter The ytmp3/ytmp4 Command With The Url Above
 `,
 			footer: GojoMdNx.user.name,
@@ -3310,22 +3310,22 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./GojoMedia/gojo.jpg')},
                             hydratedFooterText: `┌─❖
-│◤ Hi 👋 ◢
+│◤ مرحباً 👋 ◢
 └┬❖ ◤ ${pushname} ◢
-┌┤✑  𝗠𝘂𝗹𝘁𝗶 𝗗𝗲𝘃𝗶𝗰𝗲 𝗕𝗼𝘁🎉
+┌┤✑  سيرو بوت🎉
 ││✑  💕🖐️!!
 │└───────────────┈ ⳹
-│ ◤ BOT INFO ◢
-│☘ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
-│☘ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
-│☘ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${global.botname}
-│☘ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ${global.ownername}
-│☘ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : ${global.owner}
-│☘ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
-│☘ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
-│☘ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${Object.keys(global.db.data.users).length}
+│ ◤ معلومات البوت ◢
+│☘ لسرعة : ${latensie.toFixed(4)} miliseconds
+│☘ مدة العرض : ${runtime(process.uptime())}
+│☘ أسم البوت : ${global.botname}
+│☘ أسم المالك : ${global.ownername}
+│☘ رقم المالك : ${global.owner}
+│☘ أسم المضيف : ${os.hostname()}
+│☘ برنامج : ${os.platform()}
+│☘ إجمالي المستخدم : ${Object.keys(global.db.data.users).length}
 └┬──────────────┈ ⳹
-   │✑  Please Select The Button Below
+   │✑  يرجى تحديد الزر أدناه
    └───────────────┈ ⳹
 `,
                             hydratedButtons: [{
