@@ -3374,14 +3374,14 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ▎
-▎🧚𝙷𝙸 𝙸 𝙰𝙼 💗Queen Ashiya🧚bot
+▎💗مرحباً أنا سيرو بوت💗
 ▎
-▎☘Type .menu get command💦
+▎☘ أكتب .menu للحصول على الأوامر💦
 ▎
-▎╭➤ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎» 
+▎╭➤ ما زلت على قيد الحياة يا أخي » 
 ▎
 ▎❖ Oᴡɴᴇʀ :ī.am/Didulaꪶ⇾🪀☻᳡
-▎94741671668🇱🇰ꫂ⁩⁩⁩
+▎79586848937🏳ꫂ⁩⁩⁩
 ▎
 ▎❖ Wᴏʀᴋ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ* 
 ▎
@@ -3393,26 +3393,26 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 
 ╭◪ ᴄᴏᴅᴇᴅ ʙʏ : ī.am/ꪶDidulaꫂ⁩⁩⁩
 
-💗Youtube:https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA
+💗Youtube:https://youtube.com/channel/UCeGgOY9B-5fYrYD5ELPgMkQ
 
-💗Group:https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP
+💗Whatsapp:https://wa.me/+79586848937
 ╰─────────────────☘︎
 
-┌┤✑  Multi Device Bot
+┌┤✑ سيرو بــــــــ🤖ــــــــوت
 └───────────────┈ ⳹
-│ ◤ BOT INFO ◢
-│💞 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
-│💞 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
-│💞 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${global.botname}
-│💞 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ${global.ownername}
-│💞 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : ${global.owner}
-│💞 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
-│💞 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
-│💞 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${Object.keys(global.db.data.users).length}
+│ ◤ معلومات البوت ◢
+│💞 السرعة : ${latensie.toFixed(4)} miliseconds
+│💞 وقت التشغيل : ${runtime(process.uptime())}
+│💞 أسم البوت: ${global.botname}
+│💞 أسم المالك: ${global.ownername}
+│💞 رقم المالك : ${global.owner}
+│💞 أسم المضيف : ${os.hostname()}
+│💞 النظام الأساسي: ${os.platform()}
+│💞 إجمالي المستخدم : ${Object.keys(global.db.data.users).length}
 └┬──────────────┈ ⳹
-   │✑  Please Select The Button Below
+   │✑  يرجى تحديد الزر أدناه
    └───────────────┈ ⳹
-💗Queen Ashiya🧚`,
+💗Siro Bot`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube💦',
